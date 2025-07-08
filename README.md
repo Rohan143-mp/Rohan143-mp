@@ -1,5 +1,15 @@
 # 💫 About Me:
-🌍 I’m Rohan M. Pednekar from Alibag, Maharashtra, India<br><br>🎓 Currently pursuing B.E. in Information Technology at Terna Engineering College<br><br>🎯 Completed Diploma in Computer Engineering with 89.86%<br><br>🏢 Ex-Intern at RCF Thal (Rashtriya Chemicals and Fertilizers Ltd.)<br><br>💻 Skilled in:<br><br>🚀 Programming: Java, C++, Python<br><br>🌐 Web Development: React.js, Flask<br><br>📱 Android Development, System Software<br><br>📚 Currently learning:<br><br>🔧 Data Structures & Algorithms (DSA)<br><br>🤖 AI/ML (Artificial Intelligence & Machine Learning)<br><br>🛠️ Always eager to explore new technologies and build impactful projects<br><br>🌟 Passionate about real-world problem-solving and continuous learning
+🌍 I’m Rohan M. Pednekar from Alibag, Maharashtra, India<br><br>🎓 Currently pursuing B.E. in Information Technology at Terna Engineering College<br><br>🎯 Completed Diploma in Computer Engineering with 89.86%<br><br>🏢 Ex-Intern at RCF Thal (Rashtriya Chemicals and Fertilizers Ltd.)<br><br>💻 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rohan143-mp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rohan143-mp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan143-mp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rohan143-mp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+Skilled in:<br><br>🚀 Programming: Java, C++, Python<br><br>🌐 Web Development: React.js, Flask<br><br>📱 Android Development, System Software<br><br>📚 Currently learning:<br><br>🔧 Data Structures & Algorithms (DSA)<br><br>🤖 AI/ML (Artificial Intelligence & Machine Learning)<br><br>🛠️ Always eager to explore new technologies and build impactful projects<br><br>🌟 Passionate about real-world problem-solving and continuous learning
 
 
 ## 🌐 Socials:
