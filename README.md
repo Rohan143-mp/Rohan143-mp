@@ -9,7 +9,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rohan143-mp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-Skilled in:<br><br>🚀 Programming: Java, C++, Python<br><br>🌐 Web Development: React.js, Flask<br><br>📱 Android Development, System Software<br><br>📚 Currently learning:<br><br>🔧 Data Structures & Algorithms (DSA)<br><br>🤖 AI/ML (Artificial Intelligence & Machine Learning)<br><br>🛠️ Always eager to explore new technologies and build impactful projects<br><br>🌟 Passionate about real-world problem-solving and continuous learning
+# Skilled in:
+<br><br>🚀 Programming: Java, C++, Python<br><br>🌐 Web Development: React.js, Flask<br><br>📱 Android Development, System Software<br><br>📚 Currently learning:<br><br>🔧 Data Structures & Algorithms (DSA)<br><br>🤖 AI/ML (Artificial Intelligence & Machine Learning)<br><br>🛠️ Always eager to explore new technologies and build impactful projects<br><br>🌟 Passionate about real-world problem-solving and continuous learning
 
 
 ## 🌐 Socials:
