@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌍 I’m Rohan M. Pednekar from Alibag, Maharashtra, India
+🌍 I’m Rohan M. Pednekar from Alibag, Maharashtra, India<br><br>🎓 Currently pursuing B.E. in Information Technology at Terna Engineering College<br><br>🎯 Completed Diploma in Computer Engineering with 89.86%<br><br>🏢 Ex-Intern at RCF Thal (Rashtriya Chemicals and Fertilizers Ltd.)<br><br>🛠️ Always eager to explore new technologies and build impactful projects and Passionate about real-world problem-solving and continuous learning
+
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rohan143-mp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
