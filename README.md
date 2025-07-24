@@ -1,6 +1,5 @@
 # 💫 About Me:
 🌍 I’m Rohan M. Pednekar from Alibag, Maharashtra, India
-
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rohan143-mp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
