@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌍 I’m Rohan M. Pednekar from Alibag, Maharashtra, India
-# Contact: 
+Contact: 
   Phone: 9766415141
   Email: pednekarrohan43@gmail.com
 ---
