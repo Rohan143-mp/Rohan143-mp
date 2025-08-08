@@ -1,6 +1,5 @@
 # 💫 About Me:
 🌍 I’m Rohan M. Pednekar from Alibag, Maharashtra, India ,Contact Phone: 9766415141 , Email: pednekarrohan43@gmail.com
-
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rohan143-mp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
