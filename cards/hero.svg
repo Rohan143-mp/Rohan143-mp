@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+<style>
+text{font-family:ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace}
+.name{font-size:52px;font-weight:700;fill:#e6f7ff}
+.sub{font-size:18px;fill:#7d8aa3}
+.accent{fill:#00f7ff}
+.art{font-size:8px;fill:#00f7ff;opacity:.85;white-space:pre}
+.rule{stroke:#00f7ff;stroke-width:1.5}
+@keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes fadein{from{opacity:0}to{opacity:.85}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes blink{50%{opacity:0}}
+.name{animation:rise .8s .1s both}.sub{animation:rise .8s .4s both}.rule{transform-origin:left;transform-box:fill-box;animation:grow .9s .6s both}.cursor{animation:blink 1s steps(1) infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="900" height="330" rx="14" fill="#0b0f19"/>
+<rect x="0.5" y="0.5" width="899" height="329" rx="14" fill="none" stroke="#1d2a44"/>
+<text class="sub" x="40" y="48">~/rohan $ whoami</text>
+<text class="name" x="40" y="118">Rohan <tspan class="accent">Pednekar</tspan></text>
+<line class="rule" x1="40" y1="140" x2="540" y2="140"/>
+<text class="sub" x="40" y="176">BE IT student · Full-Stack · AI/ML</text>
+<text class="sub" x="40" y="204">Converting real-world problems into</text>
+<text class="sub" x="40" y="228">smart software from Navi Mumbai <tspan class="accent cursor">_</tspan></text>
+<text x="600" y="40" class="art" style="animation:fadein .4s 0.40s both">:.          .  ....:----:...:---:.::--------:.</text>
+<text x="600" y="49" class="art" style="animation:fadein .4s 0.43s both">--.                .:--:.:.::---------------:</text>
+<text x="600" y="58" class="art" style="animation:fadein .4s 0.46s both"> .-:..               ..     ......:----------:</text>
+<text x="600" y="67" class="art" style="animation:fadein .4s 0.49s both">  ..... .:::. .     .             ..:::-------</text>
+<text x="600" y="76" class="art" style="animation:fadein .4s 0.52s both">....     .:::--:::.:--:...:::....     .:::::::</text>
+<text x="600" y="85" class="art" style="animation:fadein .4s 0.55s both">:--:..         .::::::::::...::. ..     .....:</text>
+<text x="600" y="94" class="art" style="animation:fadein .4s 0.58s both">::----:........      ..--:.....   ..   .....:.</text>
+<text x="600" y="103" class="art" style="animation:fadein .4s 0.61s both">::::::::::::::::. .-==+***+**+=:-:..::.....:..</text>
+<text x="600" y="112" class="art" style="animation:fadein .4s 0.64s both">:::.:::::......-=+++#%%%%%%%%%####=:::::::::::</text>
+<text x="600" y="121" class="art" style="animation:fadein .4s 0.67s both">=+++*+++======+#%%%%@@%%@@@@@@%%%%#*-:::--:--:</text>
+<text x="600" y="130" class="art" style="animation:fadein .4s 0.70s both">====+==----:-=*%%%@@#*+++++*#%%@@%%%+.:.+-.:=-</text>
+<text x="600" y="139" class="art" style="animation:fadein .4s 0.73s both">:::::::--::::=##%@@#=--------==*%@@@#=--+===++</text>
+<text x="600" y="148" class="art" style="animation:fadein .4s 0.76s both">-------:::::::-=*@%==++==-------+@@%#+-----===</text>
+<text x="600" y="157" class="art" style="animation:fadein .4s 0.79s both">--------------::-%+=*###*+++*****@@%+-:-:-----</text>
+<text x="600" y="166" class="art" style="animation:fadein .4s 0.82s both">------:----------+:-=+++===*###**%++----------</text>
+<text x="600" y="175" class="art" style="animation:fadein .4s 0.85s both">---------------=------==---====-==-----=------</text>
+<text x="600" y="184" class="art" style="animation:fadein .4s 0.88s both">==-----------==--=====+*++++=--=---=--======-=</text>
+<text x="600" y="193" class="art" style="animation:fadein .4s 0.91s both">===-======--=======+*#****##*++==--===========</text>
+<text x="600" y="202" class="art" style="animation:fadein .4s 0.94s both">===---==+++==-----+*+==++++*#**---========+++=</text>
+<text x="600" y="211" class="art" style="animation:fadein .4s 0.97s both">==++++=-=======+*#@#+++++++**%@#+===========+=</text>
+<text x="600" y="220" class="art" style="animation:fadein .4s 1.00s both">++===+=--=+#%%@@@@@%++******%@@@@%%*++========</text>
+<text x="600" y="229" class="art" style="animation:fadein .4s 1.03s both">======++=#@@@@@@@@@*+++****%@@@@@@@@%#***+=+++</text>
+<text x="600" y="238" class="art" style="animation:fadein .4s 1.06s both">++=====*%@@@@@@@@@@=====+#@@@@@@@@@@@%%@@%#*=+</text>
+<text x="600" y="247" class="art" style="animation:fadein .4s 1.09s both">++++==+@@@@@@@@@@@@*===*%@@@@@@@@@@@@@@@@@@%**</text>
+<text x="600" y="256" class="art" style="animation:fadein .4s 1.12s both">=+++++%@@@@@@@@@@@@%*+%@@@@@@@@@@@@@@@@@@%%%%*</text>
+<text x="600" y="265" class="art" style="animation:fadein .4s 1.15s both">==++=*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%</text>
+<text x="600" y="274" class="art" style="animation:fadein .4s 1.18s both">====+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text>
+<text x="600" y="283" class="art" style="animation:fadein .4s 1.21s both">====#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%</text>
+<text x="600" y="292" class="art" style="animation:fadein .4s 1.24s both">====#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%</text>
+<text x="600" y="301" class="art" style="animation:fadein .4s 1.27s both">=++**#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%</text>
+</svg>

@@ -1,0 +1,19 @@
+{
+  "total_last_year": 612,
+  "active_days": 214,
+  "streak": 23,
+  "busiest_day": {"date": "2026-03-14", "count": 19},
+  "months": [
+    {"label": "Dec", "count": 22}, {"label": "Jan", "count": 41},
+    {"label": "Feb", "count": 38}, {"label": "Mar", "count": 67},
+    {"label": "Apr", "count": 49}, {"label": "May", "count": 58},
+    {"label": "Jun", "count": 44}, {"label": "Jul", "count": 72},
+    {"label": "Aug", "count": 55}, {"label": "Sep", "count": 61},
+    {"label": "Oct", "count": 48}, {"label": "Nov", "count": 37}
+  ],
+  "tiles": [
+    {"title": "AI DevOps Copilot", "sub": "CI/CD + log agent", "metric": "FYP", "url": "https://github.com/Rohan143-mp", "color": "#00f7ff"},
+    {"title": "RentSlip", "sub": "Rent receipts & agreements", "metric": "PRIORITY", "url": "https://rentslip.in", "color": "#a78bfa"},
+    {"title": "Alibag Tourism", "sub": "Hometown travel site", "metric": "BUILD", "url": "https://github.com/Rohan143-mp", "color": "#f59e0b"}
+  ]
+}

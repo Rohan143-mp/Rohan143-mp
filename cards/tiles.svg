@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170">
+<style>
+text{font-family:ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace}
+.t{font-size:12px;letter-spacing:2px}
+.h{font-size:20px;font-weight:700;fill:#e6f7ff}
+.s{font-size:13px;fill:#7d8aa3}
+.a{font-size:13px}
+@keyframes tile{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<g transform="translate(0.0,0)" style="animation:tile .7s 0.0s both">
+  <rect width="286.7" height="160" rx="12" fill="#11182a" stroke="#00f7ff" stroke-opacity=".5"/>
+  <text x="20" y="44" class="t" fill="#00f7ff">FYP</text>
+  <text x="20" y="90" class="h">AI DevOps Copilot</text>
+  <text x="20" y="118" class="s">CI/CD + log agent</text>
+  <text x="20" y="146" class="a" fill="#00f7ff">open →</text>
+</g>
+<g transform="translate(306.7,0)" style="animation:tile .7s 0.2s both">
+  <rect width="286.7" height="160" rx="12" fill="#11182a" stroke="#a78bfa" stroke-opacity=".5"/>
+  <text x="20" y="44" class="t" fill="#a78bfa">PRIORITY</text>
+  <text x="20" y="90" class="h">RentSlip</text>
+  <text x="20" y="118" class="s">Rent receipts &amp; agreements</text>
+  <text x="20" y="146" class="a" fill="#a78bfa">open →</text>
+</g>
+<g transform="translate(613.3,0)" style="animation:tile .7s 0.4s both">
+  <rect width="286.7" height="160" rx="12" fill="#11182a" stroke="#f59e0b" stroke-opacity=".5"/>
+  <text x="20" y="44" class="t" fill="#f59e0b">BUILD</text>
+  <text x="20" y="90" class="h">Alibag Tourism</text>
+  <text x="20" y="118" class="s">Hometown travel site</text>
+  <text x="20" y="146" class="a" fill="#f59e0b">open →</text>
+</g>
+</svg>

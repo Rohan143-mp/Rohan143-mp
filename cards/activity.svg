@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<style>
+text{font-family:ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace}
+.v{font-size:30px;font-weight:700;fill:#00f7ff}
+.l{font-size:12px;fill:#7d8aa3;letter-spacing:1px}
+.m{font-size:12px;fill:#7d8aa3}
+@keyframes grow-y{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="900" height="300" rx="14" fill="#0b0f19"/>
+<rect x="0.5" y="0.5" width="899" height="299" rx="14" fill="none" stroke="#1d2a44"/>
+<line x1="40" y1="230" x2="860" y2="230" stroke="#1d2a44"/>
+<text x="685" y="50" class="v">19</text><text x="685" y="72" class="l">busiest day</text>
+<text x="470" y="50" class="v">214</text><text x="470" y="72" class="l">active days</text>
+<text x="255" y="50" class="v">23</text><text x="255" y="72" class="l">day streak</text>
+<text x="40" y="50" class="v">612</text><text x="40" y="72" class="l">contributions</text>
+<rect x="53.7" y="184.2" width="41.0" height="45.8" rx="3" fill="#1f3a5f" style="transform-box:fill-box;transform-origin:bottom;animation:grow-y .6s 0.40s both"/>
+<text x="74.2" y="250" class="m" text-anchor="middle">Dec</text>
+<rect x="122.0" y="144.6" width="41.0" height="85.4" rx="3" fill="#1f3a5f" style="transform-box:fill-box;transform-origin:bottom;animation:grow-y .6s 0.46s both"/>
+<text x="142.5" y="250" class="m" text-anchor="middle">Jan</text>
+<rect x="190.3" y="150.8" width="41.0" height="79.2" rx="3" fill="#1f3a5f" style="transform-box:fill-box;transform-origin:bottom;animation:grow-y .6s 0.52s both"/>
+<text x="210.8" y="250" class="m" text-anchor="middle">Feb</text>
+<rect x="258.7" y="90.4" width="41.0" height="139.6" rx="3" fill="#1f3a5f" style="transform-box:fill-box;transform-origin:bottom;animation:grow-y .6s 0.58s both"/>
+<text x="279.2" y="250" class="m" text-anchor="middle">Mar</text>
+<rect x="327.0" y="127.9" width="41.0" height="102.1" rx="3" fill="#1f3a5f" style="transform-box:fill-box;transform-origin:bottom;animation:grow-y .6s 0.64s both"/>
+<text x="347.5" y="250" class="m" text-anchor="middle">Apr</text>
+<rect x="395.3" y="109.2" width="41.0" height="120.8" rx="3" fill="#1f3a5f" style="transform-box:fill-box;transform-origin:bottom;animation:grow-y .6s 0.70s both"/>
+<text x="415.8" y="250" class="m" text-anchor="middle">May</text>
+<rect x="463.7" y="138.3" width="41.0" height="91.7" rx="3" fill="#1f3a5f" style="transform-box:fill-box;transform-origin:bottom;animation:grow-y .6s 0.76s both"/>
+<text x="484.2" y="250" class="m" text-anchor="middle">Jun</text>
+<rect x="532.0" y="80.0" width="41.0" height="150.0" rx="3" fill="#00f7ff" style="transform-box:fill-box;transform-origin:bottom;animation:grow-y .6s 0.82s both"/>
+<text x="552.5" y="250" class="m" text-anchor="middle">Jul</text>
+<rect x="600.3" y="115.4" width="41.0" height="114.6" rx="3" fill="#1f3a5f" style="transform-box:fill-box;transform-origin:bottom;animation:grow-y .6s 0.88s both"/>
+<text x="620.8" y="250" class="m" text-anchor="middle">Aug</text>
+<rect x="668.7" y="102.9" width="41.0" height="127.1" rx="3" fill="#1f3a5f" style="transform-box:fill-box;transform-origin:bottom;animation:grow-y .6s 0.94s both"/>
+<text x="689.2" y="250" class="m" text-anchor="middle">Sep</text>
+<rect x="737.0" y="130.0" width="41.0" height="100.0" rx="3" fill="#1f3a5f" style="transform-box:fill-box;transform-origin:bottom;animation:grow-y .6s 1.00s both"/>
+<text x="757.5" y="250" class="m" text-anchor="middle">Oct</text>
+<rect x="805.3" y="152.9" width="41.0" height="77.1" rx="3" fill="#1f3a5f" style="transform-box:fill-box;transform-origin:bottom;animation:grow-y .6s 1.06s both"/>
+<text x="825.8" y="250" class="m" text-anchor="middle">Nov</text>
+</svg>
