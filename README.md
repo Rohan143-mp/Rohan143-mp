@@ -1,27 +1,92 @@
-# 💫 About Me: https://rohan143-mp.github.io/Portfolio/
-🔭 I’m currently pursuing BE IT and focusing on Full-Stack AI/ML projects**<br><br>👯 I’m looking to collaborate on **AI/ML projects, React Native apps, Web Apps, SaaS platforms, and real-world problem-solving projects**<br><br>🤝 I’m looking for help with **advanced AI model optimization, scalable backend systems, cloud deployment, and production-level app architecture**<br><br>🌱 I’m currently learning **DSA, Python Backend Development, Machine Learning, React Native, Blockchain, and Cloud Deployment**<br><br>💬 Ask me about **Full-Stack Development, AI/ML, React, React Native, Node.js, Python, MongoDB, Firebase, Java, DSA, and Blockchain**<br><br>⚡ Fun fact **I love converting real-world problems into smart software solutions using AI and full-stack development 🚀**
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f7ff&height=240&section=header&text=Rohan%20Pednekar&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Builder&descAlignY=60&descSize=20" width="100%" alt="header" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rohan1104) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Ped1Rohan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pednekarrohan43@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Converting+real-world+problems+into+smart+software;Full-Stack+%2B+AI%2FML+%2B+Cloud;Shipping+products+from+Mumbai+%F0%9F%9A%80" alt="typing animation" />
+</a>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rohan143-mp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Rohan143-mp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rohan143-mp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rohan143-mp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan1104)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f7ff?style=for-the-badge&logo=githubpages&logoColor=black)](https://rohan143-mp.github.io/Portfolio/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ped1Rohan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pednekarrohan43@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rohan143-mp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rohan143-mp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### `> whoami`
+
+**BE Information Technology** student building at the intersection of **full-stack engineering** and **applied AI**.
+I turn messy real-world problems into fast, reliable software.
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### `> now.building()`
+- 🤖 **AI DevOps Copilot**: CI/CD assistant with a log-analysis agent
+- 🌴 **Alibag Tourism Site**: web platform for my hometown
+- 🧾 **RentSlip**: rent receipt & rental agreement generator
+- 🧭 **Travel Planner**: AI trip planning for the Indian market
+
+</td>
+<td valign="top" width="50%">
+
+### `> stack.load()`
+- **Frontend:** React · React Native · Expo · HTML · CSS · JavaScript
+- **Backend:** Node.js · Python · Flask · .NET · Firebase · MongoDB · MySQL
+- **AI / ML:** TensorFlow · Keras · scikit-learn · Pandas · NumPy · MLflow
+- **DevOps:** GitHub Actions · Git · Render · Postman · Figma
+
+</td>
+</tr>
+</table>
+
+### `> learning.queue()`
+`DSA` · `Advanced ML Ops` · `Python Backend Architecture` · `React Native` · `Blockchain` · `Cloud Deployment`
+
+---
+
+<div align="center">
+
+### `> github.telemetry()`
+
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rohan143-mp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan143-mp&layout=compact&theme=tokyonight&hide_border=true" />
+<br/>
+<img alt="Streak" src="https://streak-stats.demolab.com/?user=Rohan143-mp&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Rohan143-mp&theme=onedark&no-frame=true&no-bg=true&margin-w=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `> collaborate.open()`
+
+Open to collaboration on **AI/ML projects**, **React Native apps**, **SaaS platforms**, and **production-grade backend & cloud architecture**.
+
+**Ask me about:** Full-Stack · AI/ML · React · React Native · Node.js · Python · MongoDB · Firebase · Java · DSA · Blockchain
+
+<br/>
+
+<sub>⚡ Fun fact: I love converting real-world problems into smart software using AI and full-stack development.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
